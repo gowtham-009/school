@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap');
+*{
+    margin:0%;
+    padding: 0%;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.email-call{
+    height: 40px;
+    display: flex;
+    background: #E30B5C;
+    
+
+}
+.em-sm-box{
+    height: 40px;
+    
+}
+.esm-1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding-left: 3%;
+}
+.esm-1 a i{
+    color: greenyellow;
+}
+.follow-links{
+    height: 40px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+}
+.marque{
+    width: 100%;
+    height: 35px;
+}
+.nvb{
+    background-color: #03035b !important;
+}
+#home{
+    width: 100%;
+
+}
+
+.im img{
+width: 100%;
+height: 600px;
+}
+.welc h1{
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: crimson;
+    line-height: 1.1;
+
+}
+.welc p{
+    font-size: 18px;
+    color: rgb(137, 137, 137);
+    text-align: justify;
+    line-height: 1.2;
+    font-weight: 400;
+    margin-top: 2%;
+    font-family: serif;
+    
+}
+#about{
+    width: 100%;
+    height: auto;
+    background: #FFEFBA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#heads{
+    width: 100%;
+    height: auto;
+  
+}
+#visions{
+    width: 100%;
+    height: auto;
+    margin-top: 5%
+}
+.vis-obj h1{
+    font-weight: bold;
+    color: rgb(193, 191, 191);
+}
+.vis-obj h3{
+    color: black;
+    text-align: justify;
+    line-height: 1.1;
+}
+.vis-obj p{
+    font-family: italic;
+     color: grey;
+     font-size: 20px;
+}
+.gal img{
+    width: 100%;
+    height: 250px;
+}
+footer{
+    height: 100px;
+    background-color: #03035b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    font-size: 1.2rem;
+    color: #FFFFFF;
+}
